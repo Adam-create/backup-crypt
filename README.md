@@ -124,9 +124,3 @@ l'intégrité — ce schéma l'exclut structurellement.
 - Ne stockez jamais la passphrase dans un fichier ou une variable d'environnement.
 - Conservez plusieurs copies de sauvegarde sur des supports différents.
 - Un fichier `.enc` modifié, même d'un seul bit, échouera à la restauration (tag invalide).
-
----
-
-## Licence
-
-MIT — voir [LICENSE](LICENSE).
